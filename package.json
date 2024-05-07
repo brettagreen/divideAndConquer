@@ -2,7 +2,7 @@
   "name": "prob-divide-conquer",
   "version": "1.0.0",
   "description": "",
-  "main": "count-zeroes.js",
+  "main": "divide-and-conquer.js",
   "scripts": {
     "test": "jest"
   },
